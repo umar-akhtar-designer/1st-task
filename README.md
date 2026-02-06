@@ -45,3 +45,4 @@ The `vercel.json` file includes:
 - `wp-content/` - WordPress content assets
 - `wp-includes/` - WordPress includes
 - Various static assets (CSS, images, etc.)
+# 1st-task
