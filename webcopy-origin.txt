@@ -1,0 +1,692 @@
+Uri: https://fonts.googleapis.com/css?family=Bebas+Neue:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\signals2trade.net\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Red+Hat+Display:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\signals2trade.net\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bebasneue/v16/JTUSjIg69CK48gW7PXoo9Wlhzg.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\bebasneue\v16\JTUSjIg69CK48gW7PXoo9Wlhzg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbjKWQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbjKWQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6WQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6WQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbsWRQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbsWRQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbuyRQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbuyRQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVfQwD-l-d.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVfQwD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVGgwD-l-d.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVGgwD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVmgsD-l-d.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVmgsD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVMwwD-l-d.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVMwwD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVqAsD-l-d.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVqAsD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVRAwD-l-d.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVRAwD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v21/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVxAsD-l-d.ttf
+File Name: C:\Downloaded Web Sites\signals2trade.net\s\redhatdisplay\v21\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVxAsD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://signals2trade.net/comments/feed/
+File Name: C:\Downloaded Web Sites\signals2trade.net\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://signals2trade.net/feed/
+File Name: C:\Downloaded Web Sites\signals2trade.net\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://signals2trade.net/ger-lp/
+File Name: C:\Downloaded Web Sites\signals2trade.net\ger-lp\index.htm
+Content Type: text/html
+
+Uri: https://signals2trade.net/wp-content/plugins/Elementor-PRO-3-34-1/assets/css/widget-nav-menu.min.css?ver=3.34.1
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\Elementor-PRO-3-34-1\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/Elementor-PRO-3-34-1/assets/js/elements-handlers.min.js?ver=3.34.1
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\Elementor-PRO-3-34-1\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-content/plugins/Elementor-PRO-3-34-1/assets/js/frontend.min.js?ver=3.34.1
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\Elementor-PRO-3-34-1\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-content/plugins/Elementor-PRO-3-34-1/assets/js/webpack-pro.runtime.min.js?ver=3.34.1
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\Elementor-PRO-3-34-1\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-content/plugins/Elementor-PRO-3-34-1/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\Elementor-PRO-3-34-1\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.34.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.34.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.34.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.34.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\css\widget-icon-list.min-1.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.34.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.34.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\css\widget-image-carousel.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.34.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=3.34.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\css\widget-video.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.34.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.34.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.34.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.8.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=2.8.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\header-footer-elementor\inc\js\frontend.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.8.2
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/plugins/mousewheel-smooth-scroll/js/lenis.min.js?ver=1.1.19
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\plugins\mousewheel-smooth-scroll\js\lenis.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.6
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\themes\hello-elementor\assets\css\header-footer.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.6
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\themes\hello-elementor\assets\css\reset.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.6
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\themes\hello-elementor\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.6
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\themes\hello-elementor\assets\js\hello-frontend.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-content/uploads/2023/11/Testemonials_Dots_light.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2023\11\Testemonials_Dots_light.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2023/12/S2T-logo-schriftzug-weis-18x2.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2023\12\S2T-logo-schriftzug-weis-18x2.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2023/12/S2T-logo-schriftzug-weis-300x40.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2023\12\S2T-logo-schriftzug-weis-300x40.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2023/12/S2T-logo-schriftzug-weis.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2023\12\S2T-logo-schriftzug-weis.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2024/05/cropped-Signals2Trade_Logo_darkbg-180x180.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2024\05\cropped-Signals2Trade_Logo_darkbg-180x180.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2024/05/cropped-Signals2Trade_Logo_darkbg-192x192.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2024\05\cropped-Signals2Trade_Logo_darkbg-192x192.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2024/05/cropped-Signals2Trade_Logo_darkbg-32x32.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2024\05\cropped-Signals2Trade_Logo_darkbg-32x32.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/1-removebg-preview-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\1-removebg-preview-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/1-removebg-preview.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\1-removebg-preview.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/2-removebg-preview.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\2-removebg-preview.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/3-removebg-preview.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\3-removebg-preview.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/3.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\3.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/4-removebg-preview.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\4-removebg-preview.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/5-removebg-preview.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\5-removebg-preview.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/6-removebg-preview.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\6-removebg-preview.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/7-removebg-preview.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\7-removebg-preview.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/8-removebg-preview.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\8-removebg-preview.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/First-right-01-scaled-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\First-right-01-scaled-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Fourth-left-01-01-01-1-scaled-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Fourth-left-01-01-01-1-scaled-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Fourth-right-01-scaled-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Fourth-right-01-scaled-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/imgi_3_default-1-150x150.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\imgi_3_default-1-150x150.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/imgi_3_default-1-300x300.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\imgi_3_default-1-300x300.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/imgi_3_default-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\imgi_3_default-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/placeholder-178.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\placeholder-178.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Right-left-01-01-scaled-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Right-left-01-01-scaled-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/S2T-logo-schriftzug-weis-2-300x40.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\S2T-logo-schriftzug-weis-2-300x40.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/S2T-logo-schriftzug-weis-2-600x79.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\S2T-logo-schriftzug-weis-2-600x79.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/S2T-logo-schriftzug-weis-2.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\S2T-logo-schriftzug-weis-2.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-27-202139.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-27-202139.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-27-203005-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-27-203005-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-27-203811-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-27-203811-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-27-204019-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-27-204019-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-27-204736.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-27-204736.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-27-204904.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-27-204904.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-28-182840.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-28-182840.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-28-183031.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-28-183031.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-28-183209.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-28-183209.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-28-183304.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-28-183304.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-28-183432.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-28-183432.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-28-183531.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-28-183531.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-28-183637.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-28-183637.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-28-183745.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-28-183745.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-28-183855.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-28-183855.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-03-28-190555.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-03-28-190555.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-04-30-004414-300x60.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-04-30-004414-300x60.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-04-30-004414.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-04-30-004414.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-04-30-004422-150x34.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-04-30-004422-150x34.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-04-30-004422.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-04-30-004422.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-08-21-035633-1-300x20.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-08-21-035633-1-300x20.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-08-21-035633-1-600x40.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-08-21-035633-1-600x40.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-08-21-035633-1-768x51.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-08-21-035633-1-768x51.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-08-21-035633-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-08-21-035633-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-08-21-060337.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-08-21-060337.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Screenshot-2025-08-21-060719.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Screenshot-2025-08-21-060719.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Second-left-01-scaled-1-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Second-left-01-scaled-1-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Second-right-01-scaled-1-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Second-right-01-scaled-1-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Third-Left-01-scaled-1-1.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Third-Left-01-scaled-1-1.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/Third-Right-01-scaled-2.png
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\Third-Right-01-scaled-2.png
+Content Type: image/png
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/VID-20240917-WA0018-1-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\VID-20240917-WA0018-1-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/VID-20240917-WA0033-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\VID-20240917-WA0033-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/VID-20240917-WA0033-2.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\VID-20240917-WA0033-2.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/VID-20240918-WA0078-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\VID-20240918-WA0078-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/VID-20240919-WA00451-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\VID-20240919-WA00451-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/VID-20240926-WA0033-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\VID-20240926-WA0033-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/VID-20240926-WA0033.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\VID-20240926-WA0033.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/VID-20240926-WA0057-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\VID-20240926-WA0057-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/VID-20241003-WA0049-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\VID-20241003-WA0049-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/VID-20241015-WA0026-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\VID-20241015-WA0026-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1084752329-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1084752329-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1084752329.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1084752329.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1169161873.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1169161873.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1297241944-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1297241944-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1297241944.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1297241944.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1352045173-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1352045173-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1352045173.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1352045173.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1464993909-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1464993909-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1464993909.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1464993909.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1513439767.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1513439767.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1772009641-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1772009641-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1772009641.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1772009641.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1938647062-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1938647062-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1938647062.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1938647062.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1967443366-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1967443366-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1967443366.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1967443366.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1977899271-1.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1977899271-1.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/08/video1977899271.mp4
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\08\video1977899271.mp4
+Content Type: video/mp4
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/10/Data-Privacy-signals2rade.net_.pdf
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\10\Data-Privacy-signals2rade.net_.pdf
+Content Type: application/pdf
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/10/Imprint-signals2trade.net_.pdf
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\10\Imprint-signals2trade.net_.pdf
+Content Type: application/pdf
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/10/Legal-Notice-signals2rade.net_.pdf
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\10\Legal-Notice-signals2rade.net_.pdf
+Content Type: application/pdf
+
+Uri: https://signals2trade.net/wp-content/uploads/2025/10/Terms-and-Conditions-signals2trade.net_.pdf
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2025\10\Terms-and-Conditions-signals2trade.net_.pdf
+Content Type: application/pdf
+
+Uri: https://signals2trade.net/wp-content/uploads/2026/01/VSL-Lennart-Tauro-Markets-video-converter.com_.webm
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\2026\01\VSL-Lennart-Tauro-Markets-video-converter.com_.webm
+Content Type: video/webm
+
+Uri: https://signals2trade.net/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1742433005
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\elementor\google-fonts\css\montserrat.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742274108
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\elementor\google-fonts\css\roboto.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742274122
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\elementor\google-fonts\css\robotoslab.css
+Content Type: text/css
+
+Uri: https://signals2trade.net/wp-content/uploads/wpmss/lenis-init.min.js?ver=1768477145
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-content\uploads\wpmss\lenis-init.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://signals2trade.net/wp-json/
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://signals2trade.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fsignals2trade.net%2Fger-lp%2F
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://signals2trade.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fsignals2trade.net%2Fger-lp%2F&format=xml
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://signals2trade.net/wp-json/wp/v2/pages/4474
+File Name: C:\Downloaded Web Sites\signals2trade.net\wp-json\wp\v2\pages\4474
+Content Type: application/json
+
+Uri: https://www.facebook.com/tr?id=1267809801447871&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-13
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1280361610125152&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-6
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1370684444220491&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-5
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1396254438159160&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-16
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1559739958176956&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1657360091617588&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-14
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1762757640952110&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-12
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1916914192175952&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-9
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=2413102725728879&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-8
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=433607659460578&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-3
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=544617114905078&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-4
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=633970549636977&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-10
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=640858001527796&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=712448834921760&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-11
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=757342036780829&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-15
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=758166433542853&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-7
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=776835117640462&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\signals2trade.net\tr-2
+Content Type: text/plain
+
